@@ -3,7 +3,8 @@
 
 
 -       Namn 
-    -  Jag heter Farhad Haddadi.
+
+    -  Jag heter Farhad Haddadi. 
     -  Jag är 32 år gammal.
 -       Värifrån
     -  Jag kommer från Iran - Tehran.
@@ -14,13 +15,13 @@
 -       Mål med utbildningen
     -  För att komma närmare full stack utvecklare
 -        Intressen
-+    Musik(Rock & Blues)
+    1.  Musik(Rock & Blues)
     2.  Gitarr
     3.  Datorspel och datorkomponenter
-- Vad gör du en ledig dag
+-       lediga dagar
     1.  Vänner och family
     2.  musikövning
-    3.  Svesnka 
+    3.  Svenska 
 -        Favoritspel
     -   Jag kan inte svara på denna fråga - Bro Force kanske
 -       Favoritserie
