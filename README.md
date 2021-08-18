@@ -24,17 +24,19 @@
 3.  Svenska 
 ### **Favorit**
 #### **Spel**
-1.  Bro Force
+1.  BroForce 
+    - <iframe width="560" height="315" src="https://www.youtube.com/embed/8mOAQ7t9JjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 2.  Assassin's Creed 1 & 2
 3.  Vermintide
 
 #### **Serie**
 1.  Breaking Bad
-    - [reference-style link]https://www.imdb.com/title/tt0903747/
+    - https://www.imdb.com/title/tt0903747/
 2.  True Detective
-    - [reference-style link]https://www.imdb.com/title/tt2356777/
+    - https://www.imdb.com/title/tt2356777/
 3.  West World
-    - [reference-style link]https://www.imdb.com/title/tt0475784/
+    - https://www.imdb.com/title/tt0475784/
 
   * Kontaktuppgifter
     + Farhad.haddadi@outlook.com
